@@ -24,6 +24,10 @@ ping 192.168.56.101
 Got successful responses confirming both 
 machines can communicate.
 
+![Metasploitable ifconfig](https://github.com/agarwal-anushka/cybersecurity-portfolio/blob/main/home-lab/screenshots/01-setup/metasploitable_ifconfig_output.png)
+
+![Ping verification](https://github.com/agarwal-anushka/cybersecurity-portfolio/blob/main/home-lab/screenshots/01-setup/ping_from_kali_to_metasploitable.png)
+
 ## What This Lab Allows Me To Practice
 - Network scanning and enumeration
 - Exploitation of known vulnerabilities
