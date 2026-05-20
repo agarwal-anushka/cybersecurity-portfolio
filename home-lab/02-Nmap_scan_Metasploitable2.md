@@ -1,6 +1,8 @@
 # Nmap Scan - Metasploitable 2
 Date: 20 May 2026
+
 Target: 192.168.56.101
+
 Tool: nmap -sV
 
 ---
@@ -49,6 +51,7 @@ These are the ports I found interesting and why:
 | 5432 | PostgreSQL | Database directly exposed — should never be public |
 | 5900 | VNC | Remote desktop exposed and unprotected |
 
+![Nmap scan on Metasploitable 2](https://github.com/agarwal-anushka/cybersecurity-portfolio/blob/main/home-lab/screenshots/02-nmap_scan.png)
 
 ---
 
